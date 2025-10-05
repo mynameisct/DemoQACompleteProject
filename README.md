@@ -9,3 +9,7 @@ Where we will implement ITestListener interface and provide the definitions for 
 We will also creaet lof4j2.xml file where we will define how and where logs will be logged.
 
 and Finally we will use Logger class reference in our BasePage etc.
+
+See these changes reflected in DemoQACompleteProject_2 named Repository.
+
+Thank you !
