@@ -6,7 +6,7 @@ then Create a package under the main directory named listeners and create a Test
 
 Where we will implement ITestListener interface and provide the definitions for abstract methods present in that interface.
 
-We will also creaet lof4j2.xml file where we will define how and where logs will be logged.
+We will also create lof4j2.xml file where we will define how and where logs will be logged.
 
 and Finally we will use Logger class reference in our BasePage etc.
 
